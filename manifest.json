@@ -1,0 +1,15 @@
+{
+  "name": "Блоки",
+  "short_name": "Блоки",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#87ceeb",
+  "theme_color": "#87ceeb",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Grass_Block_Revision.png/512px-Grass_Block_Revision.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
